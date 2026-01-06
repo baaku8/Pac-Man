@@ -21,3 +21,5 @@ const b1=new Boundary({pos:{
     y:0
 }})
 b1.draw();
+
+
